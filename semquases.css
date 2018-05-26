@@ -1389,10 +1389,10 @@ font-size: 1.021em;
 }
 
 .comment {
-	border-bottom:1px dotted #eee;
 	margin-top:20px;
 	margin-bottom:34px;
-	padding-bottom:40px;
+	padding: 1em 1em 3em 2em;
+        border: 1px solid #D8D8D8;
 }
 
 .comment .avatar-image-container {
