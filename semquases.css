@@ -1447,8 +1447,14 @@ span.datetime {
 	font-size:14px;
 	color:#999;
 	font-style:italic;
-	display:block;
+	/* display:block; */
 	margin-bottom:10px;
+	  display: inline;
+	   float: right;
+}
+
+.comment-header {
+    margin-bottom: 30px;
 }
 
 .thecomment .comment-text em {
