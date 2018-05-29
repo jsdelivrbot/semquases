@@ -4554,3 +4554,10 @@ opacity: 0.4;
 .entry-tags.gray-2-secondary a {
     color: #191919 !important;
 }
+
+@media only screen and (max-width: 767px) {
+cite.user > a {
+    background: url(https://raw.githubusercontent.com/jeanbispo/semquases/dc5a1017/images/brushbar.png) no-repeat 0 95%;
+    display: inline-block;
+}
+}
