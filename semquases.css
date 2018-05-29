@@ -1379,7 +1379,8 @@ font-size: 1.021em;
     color: #D8D8D8;
 }	
 .comments .thread-chrome{
-border-top: 1px solid #D8D8D8;
+border-top: 2px solid #D8D8D8;
+margin-top: 20px;
 }
 
 .post-comments {
@@ -1400,7 +1401,7 @@ border-top: 1px solid #D8D8D8;
 	/*padding: 1em 1em 3em 2em;
         border: 1px solid #D8D8D8;*/
 	padding: 1em 45px 3em 45px;
-	border-bottom: 1px solid #D8D8D8;
+	border-bottom: 2px solid #D8D8D8;
 }
 
 .comment .avatar-image-container {
