@@ -1375,7 +1375,9 @@ font-size: 1.021em;
 /*******************************
 *** COMMENTS
 *******************************/
-	
+.datetime.secondary-text a {
+    color: #D8D8D8;
+}	
 .comments .thread-chrome{
 border-top: 1px solid #D8D8D8;
 }
