@@ -720,6 +720,10 @@ span.smg-label {
 		
 	}
 	
+	.item-related.slick-slide h3 a {
+  	  color: white !important;
+	}
+	
 	.item-related:last-child { margin-right:0;}
 
 		.container.sp_sidebar .item-related{
@@ -746,7 +750,7 @@ span.smg-label {
     position: absolute;
     bottom: 11px;
     font-weight: 500;
-    width: 78%;
+    width: 79%;
     min-height: 42px;
     padding: 10px 24px;
     background-color: rgba(0, 0, 0, 0.43);
