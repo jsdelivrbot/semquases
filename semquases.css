@@ -1446,7 +1446,11 @@ margin-top: 20px;
 	margin-bottom:6px;
 	color:#333;
 	font-family:"Open Sans";
-	border-bottom: solid #c3c3c3;
+	/* border-bottom: solid #c3c3c3; */
+}
+cite.user > a {
+    background: url(https://raw.githubusercontent.com/jeanbispo/semquases/dc5a1017/images/brushbar.png) no-repeat 0 85%;
+    padding-bottom: 10px;
 }
 .thecomment .comment-text span.author a:hover {
 	text-decoration:underline;
