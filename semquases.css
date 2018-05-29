@@ -4534,3 +4534,6 @@ opacity: 0.4;
 
 .post-meta-comments{display:none}
 
+.entry-tags .gray-2-secondary a{
+  color: #191919;
+}
