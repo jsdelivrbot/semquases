@@ -1376,11 +1376,15 @@ font-size: 1.021em;
 *** COMMENTS
 *******************************/
 	
+.comments .thread-chrome{
+border-top: 1px solid #D8D8D8;
+}
+
 .post-comments {
 	margin-bottom:70px;
 	margin-top:70px;
-	padding-right: 35px;
-    	padding-left: 45px;
+/*	padding-right: 35px;
+    	padding-left: 45px; */
 }
 
 .comments {
@@ -1391,8 +1395,10 @@ font-size: 1.021em;
 .comment {
 	margin-top:20px;
 	margin-bottom:34px;
-	padding: 1em 1em 3em 2em;
-        border: 1px solid #D8D8D8;
+	/*padding: 1em 1em 3em 2em;
+        border: 1px solid #D8D8D8;*/
+	padding: 1em 45px 3em 45px;
+	border-bottom: 1px solid #D8D8D8;
 }
 
 .comment .avatar-image-container {
