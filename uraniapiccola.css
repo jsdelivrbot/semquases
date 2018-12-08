@@ -4,5 +4,5 @@
 font-family: 'Urania_Piccola_II';
 font-style: normal;
 font-weight: normal;
-src: local('Urania_Piccola_II'), url('https://cdn.rawgit.com/jeanbispo/semquases/46397f53/Urania_Piccola_1933.woff?raw=true') format('woff');
+src: local('Urania_Piccola_II'), url('https://cdn.jsdelivr.net/gh/jeanbispo/semquases@46397f53/Urania_Piccola_1933.woff?raw=true') format('woff');
 }
